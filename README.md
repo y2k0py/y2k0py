@@ -24,11 +24,6 @@ Most of my commercial code is private, so here is what it does in production:
 ## Open-source and side projects
 
 - **[SQLAlchemyMagic](https://github.com/y2k0py/SQLAlchemyMagic)**: toolkit for managing sync and async SQLAlchemy engines and sessions in FastAPI services.
-- **[request-reply-bot](https://github.com/y2k0py/request-reply-bot)**: Telegram bot (aiogram 3) for channel join requests with invite codes; SQLAlchemy, Alembic, PostgreSQL, Docker image built by GitHub Actions.
-- **[chmura-projekt](https://github.com/y2k0py/chmura-projekt)**: cloud notes app (Node.js + React) with Docker, Caddy, Jest tests, and a GitHub Actions CI/CD pipeline.
-- **[miniauction](https://github.com/y2k0py/miniauction)**: simplified auction platform in Django, built for a Software Engineering course.
-- **[spotify_statistic](https://github.com/y2k0py/spotify_statistic)**: React + Vite app for Spotify listening statistics ([live demo](https://spotify-statistic-six.vercel.app)).
-- **[my-projects](https://github.com/y2k0py/my-projects)**: my portfolio site ([live](https://my-projects-lemon-omega.vercel.app)).
 
 ## Tech stack
 
