@@ -6,7 +6,7 @@ Warsaw, Poland · Open to Full-Stack and Backend roles (Warsaw or remote)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ivan--pertovskyi-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-pertovskyi/)
 [![Email](https://img.shields.io/badge/Email-peyrovskaaa%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:peyrovskaaa@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-my--projects-000000?logo=vercel&logoColor=white)](https://my-projects-lemon-omega.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abudaba.vercel.app-000000?logo=vercel&logoColor=white)](https://abudaba.vercel.app/)
 
 I build production systems in Python (FastAPI, Django) and React/TypeScript, with a focus on backend engineering, web automation, and AI agents. I usually own the backend end to end and act as the main technical contact for clients.
 
